@@ -1,0 +1,4 @@
+name: test_deep_render
+version: 1.0.0
+dependencies:
+  react: 0.8.7

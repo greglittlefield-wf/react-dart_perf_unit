@@ -1,0 +1,7 @@
+name: test_deep_render
+version: 1.0.0
+dependencies:
+  react:
+    git:
+      url: git@github.com:greglittlefield-wf/react-dart.git
+      ref: ff42e44ed4080b6bb2c5c2f9b3714f9b77699ebd
