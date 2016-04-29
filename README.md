@@ -14,9 +14,9 @@ Shallow/deep rendering and framerate data are available in the following doc: <h
 ##### Summarized results
 
 react-dart Initial Rendering Time (in terms of pure JS time):
- current: 14.3x
- optimized: 5.7x
- optimized + dart2js tweaks: 3.5x
+* current: 14.3x
+* optimized: 5.7x
+* optimized + dart2js tweaks: 3.5x
 
 tl;dr Still not quite as fast as react JS, but much lot faster. Getting really close with the dart2js changes in place.
 
